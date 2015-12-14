@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My first repository on GitHub
+
+I love :Embedded Systems :DSP, and :sports:.
